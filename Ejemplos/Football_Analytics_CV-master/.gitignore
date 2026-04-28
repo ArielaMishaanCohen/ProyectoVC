@@ -1,0 +1,14 @@
+.env
+Soccernet_DB
+clips
+dataset
+YOLO_CV
+IAUFD
+YOLO_weights
+sample
+runs
+yolov8n.pt
+__pycache__/
+runs
+jerseys
+results
